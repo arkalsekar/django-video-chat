@@ -16,7 +16,7 @@ The Design Mock developed by Reev (our Designer) using Figma can be accessed [he
 
 Clone or Download the this repository and store it on your machine. 
 ```bash
-git download
+git clone https://github.com/arkalsekar/django-video-chat/
 ```
 
 ## Usage
