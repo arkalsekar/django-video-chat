@@ -11,7 +11,7 @@ itsyaba (was Supposed to work as a Frontend Developer)
 Reev (worked as a Designer)
 
 ## Design Mock Up
-The Design Mock developed by Reev (our Designer) using Figma can be accessed here. 
+The Design Mock developed by Reev (our Designer) using Figma can be accessed [here.](https://www.figma.com/proto/gpVWvubf6emtmyUESGme18/Video-Chat-App?node-id=35%3A422&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=35%3A422) 
 ## Setting Up
 
 Clone or Download the this repository and store it on your machine. 
